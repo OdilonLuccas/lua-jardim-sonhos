@@ -1,0 +1,20 @@
+# GDevelop build outputs
+/builds/
+/export/
+
+# GDevelop cache e temporários
+*.autosave
+*.bak
+/node_modules/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Arquivos de ambiente local
+.env
+.env.local
