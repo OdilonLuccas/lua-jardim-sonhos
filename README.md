@@ -107,6 +107,9 @@ lua-jardim-sonhos/
 ├── 📄 .gitignore
 └── 📄 README.md
 ```
+<p align="center">
+  <img src="assets/personagens-rostos.png" alt="Personagens de Lua e o Jardim dos Sonhos" width="650">
+</p>
 
 ---
 
